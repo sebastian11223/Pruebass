@@ -1,0 +1,70 @@
+
+
+.Cabecera {
+    border: 2px solid;
+    height: 2%;
+    background-color: black; 
+    text-align:center; 
+    font-size: 100px;
+   
+  
+}
+
+.img {
+   
+    justify-content: left;
+}
+
+
+.DiVGran {
+
+display: flex;
+justify-content: center;
+justify-content: space-around;
+flex-wrap: wrap;
+margin-top: 5%;
+margin-left: 15%;
+margin-right: 15%;
+
+}
+
+.p {
+color: white;
+}
+
+.volverArriba {
+    border: 2px solid;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    margin-top: 10%;
+
+}
+
+.footer { 
+    border: 2px solid;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 5%;
+    
+   
+    
+}
+
+.footer2 {
+    
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.imgFooter {
+    display: flex;
+    justify-content: center;
+    width: 10%;
+    height: 10%;
+}
